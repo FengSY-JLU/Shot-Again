@@ -6,6 +6,9 @@ Underwater images suffer from great degradation due to the complexity of underwa
 ## Configuration
 We use Windows 10 system, Python 3.8, Pytorch 1.13.0 and one NVIDIA RTX 3060 GPU.
 
+##Dataset
+The datasets are availabel in https://drive.google.com/file/d/10VGKwG_4YqLclQ2qA78L2qkEImScUOcz/view?usp=sharing.
+
 ## For use
 The pretrained models are in ./final_weight.
 You can use it with main.py and evaluate it by evaluate.py.
